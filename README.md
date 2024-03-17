@@ -5,6 +5,9 @@ consists of a server (`server.py`) and a client (`client.py`) that communicate
 over a network connection. The server handles multiple clients simultaneously
 using threads.
 
+## Screenshot
+![Chat room](https://github.com/m43c/chat-room/blob/main/screenshot.png?raw=true)
+
 ## Features
 
 - Allows multiple users to connect to the server and communicate in real-time.
